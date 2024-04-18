@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ycg1nHgrICH3s5zyhXSDabsS87+WBs3qX0VyxE487DPib2iZfNA4TZfENbjBEjQHqwnOfb+VFBGHFFVoMIFNmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david.castanop\\source\\repos\\TaskSchedulerBusiness\\TaskSchedulerBusinessRW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david.castanop\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\david.castanop\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\david.castanop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
